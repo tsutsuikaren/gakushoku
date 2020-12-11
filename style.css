@@ -1,0 +1,68 @@
+body {
+   background-color: #FAF0E6;
+}
+
+p {
+   font-weight: bold;
+}
+
+.logo {
+   margin: 15px;
+}
+
+ul.hmenu {
+   margin: 0px;
+   padding: 0px 0px 0px 15px;
+   background-color: #f0975a;
+}
+
+ul.hmenu li {
+   width: 180px;
+   display: inline-block;
+   list-style-type: none;
+   position: relative;
+}
+
+ul.hmenu a {
+   background-color: #f0975a;
+   color: white;
+   line-height: 40px;
+   text-align: center;
+   text-decoration: none;
+   font-weight: bold;
+   display: block;
+}
+
+ul.hmenu a:hover {
+   background-color: #ffedc5;
+   color: #f0975a;
+}
+
+header {
+   margin-bottom: 40px;
+}
+
+.bx-wrapper, .bx-viewport {
+   height: 400px !important;
+}
+
+.slider img {
+   margin: 0 auto;
+   display: block;
+}
+
+#one {
+   width: 400px;
+   float: left;
+}
+
+#two {
+   width: 400px;
+   float: left;
+   font-size: 20px;
+}
+
+.col img {
+   float: left;
+   padding: 10px;
+}
