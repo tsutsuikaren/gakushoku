@@ -1,3 +1,3 @@
 # gakushoku
 
-https://tsutsuikaren.github.io/gakushoku
+https://tsutsuikaren.github.io/gakushoku/
